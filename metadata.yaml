@@ -1,0 +1,28 @@
+_repo: Heroes-of-ScienceChemists_38246
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Muir, M. M. Pattison (Matthew Moncrieff Pattison)
+    alias: Muir, Matthew Moncrieff Pattison
+    birthdate: 1848
+    deathdate: 1931
+    gutenberg_agent_id: '5412'
+    url: http://www.gutenberg.org/2009/agents/5412
+description: ''
+gutenberg_issued: '2011-12-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '38246'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'QD'
+- !lcsh 'Chemistry -- History'
+- !lcsh 'Chemists'
+title: 'Heroes of Science: Chemists'
+url: http://www.gutenberg.org/ebooks/38246

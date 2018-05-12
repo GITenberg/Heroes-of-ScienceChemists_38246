@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '5412'
     url: http://www.gutenberg.org/2009/agents/5412
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/38246#Heroes-of-ScienceChemists
 gutenberg_issued: '2011-12-07'
 gutenberg_type: Text
 identifiers:
